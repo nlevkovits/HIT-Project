@@ -16,7 +16,7 @@
 
 4. The fourth step is for entering the data into two models -
  A. Decision tree:
-    ![alt text](graph_images/decision_tree_graph.JPG)
+![alt text](graph_images/decision_tree_graph.JPG)
  B. Random forest:
     ![alt text](graph_images/random_forest_graph.JPG)   
  and choosing the best of the two:
