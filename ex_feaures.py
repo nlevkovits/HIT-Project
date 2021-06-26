@@ -177,7 +177,7 @@ def web_traffic(url):
 
 This feature can be extracted from WHOIS database. Most phishing websites live for a short period of time. The minimum age of the legitimate domain is considered to be 12 months for this project. Age here is nothing but different between creation and expiration time.
 
-If age of domain > 12 months, the vlaue of this feature is 1 (phishing) else 0 (legitimate).
+If age of domain < 12 months, the vlaue of this feature is 1 (phishing) else 0 (legitimate).
 """
 
 
