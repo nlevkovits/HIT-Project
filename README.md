@@ -32,15 +32,24 @@ In this project, I will check if it's possible to predict if the URL is maliciou
 
 ![alt text](graph_images/urls_comparison_by_categories.jpeg)
 
-4. The fourth step is for entering the data into two models -
- A. Decision tree:
+
+Or the URL by country graph:
+
+![alt text](graph_images/urls_comparison_by_countries.jpeg)
+
+# Machine Learning
+
+1. The first step was to enter the data into two models -
+
+  A. Decision tree:
 ![alt text](graph_images/decision_tree_graph.JPG)
- B. Random forest:
-    ![alt text](graph_images/random_forest_graph.JPG)   
- and choosing the best of the two:
+
+  B. Random forest:
+    ![alt text](graph_images/random_forest_graph.JPG)  
+    
+ 2. Then we can see which is the best of the two:
+ 
 ![alt text](graph_images/data_presentation_ML_comparison.JPG)
 
-5. The fifth step is to view a comparison of phishing domains by countries:
-![alt text](graph_images/urls_comparison_by_countries.jpeg)
 
  
