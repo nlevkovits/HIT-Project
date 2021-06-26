@@ -1,9 +1,9 @@
 # Phishing Project
 
 1. The first step is to scrape the data from 3 different sources:
-    A.urlhaus-api.abuse.ch - for phishing domains.
-    B.www.phishtank.com - for phishing domains.
-    C.www.sites.google.com/site/top10000alexadomains/top-10000-alexa-domains - for valid domains.
+    A. urlhaus-api.abuse.ch - for phishing domains.
+    B. www.phishtank.com - for phishing domains.
+    C. www.sites.google.com/site/top10000alexadomains/top-10000-alexa-domains - for valid domains.
 
 2. The second step is to ingest the scraped data into csv files for working with pandas:
     A. legit urls CSV
