@@ -1,6 +1,13 @@
 # Phishing Project
 
-# Try
+# Background
+
+The reason I chose this project is because phishing has become a plague in the cyber world.
+There are many approaches for how to attack this phenomena.
+
+In this project, I will check if it's possible to predict if the URL is malicious using ML.
+
+# Data Acquisition
 
 1. The first step is to scrape the data from 3 different sources:
     A. urlhaus-api.abuse.ch - for phishing domains.
